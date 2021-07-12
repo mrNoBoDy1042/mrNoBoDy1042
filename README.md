@@ -1,8 +1,8 @@
-<div align='center'>
+<div align="center">
   <h3>Hi there! I'm Valery Bychkov.</h3>
   <p>I am Python engineer with interest in backend and database development.</p>
   <hr width="50%" style="height:5px;">
-  <h3> 💼 What I am currently working on</h3>
+  <h3> 💼 Currently working on</h3>
   <p>
   <a href="https://amazinghiring.com/">AmazingHiring: Platform Backend Developer</a><br>
   </p>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Celery-informational?style=flat&logo=Celery&logoColor=white&color=008080"</img>
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-SQLAlchemy-informational?style=flat&logo=SQLAlchemy&logoColor=white&color=008080"</img>
+  <img src="https://img.shields.io/badge/-SQL_Alchemy-informational?style=flat&logo=SQLAlchemy&logoColor=white&color=008080"</img>
   <br>
   <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=008080"</img>
   <img src="https://img.shields.io/badge/-Bash-informational?style=flat&logo=Bash&logoColor=white&color=008080"</img>
@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=008080"</img>
   <img src="https://img.shields.io/badge/-Jira-informational?style=flat&logo=Jira&logoColor=white&color=008080"</img>
   <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=VSCode&logoColor=white&color=008080"</img>
-
-
+  <hr width="50%" style="height:5px;">
+  <h3> 📮 Socials</h3>
+  <a href="https://www.linkedin.com/in/valery-bychkov-61b919124/">LinkedIn</a> <br>
+  <a href="https://www.hackerrank.com/mrNoBoDy1042">HackerRank</a> <br>
+  <a href="https://t.me/mrNoBoDy1042">Telegram</a> <br>
+  <a href="https://www.instagram.com/mr_nobody1042/">Instagram</a> <br>
 </div>

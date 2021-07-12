@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there! I'm Valery Bychkov.</h3>
-  <p>I am Python engineer with interest in backend and database development.</p>
+  <p>I am a Python developer with interest in backend and database development.</p>
   <hr width="50%" style="height:5px;">
   <h3> 💼 Currently working on</h3>
   <p>

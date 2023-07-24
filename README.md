@@ -1,37 +1,58 @@
-<div align="center">
-  <h3>Hi there! I'm Valery Bychkov.</h3>
-  <p>I am a Python developer with interest in backend and database development.</p>
-  <hr width="50%" style="height:5px;">
-  <h3> 💼 Currently working on</h3>
-  <p>
-  <a href="https://amazinghiring.com/">AmazingHiring: Platform Backend Developer</a><br>
-  </p>
-  <hr width="50%" style="height:5px;">
-  <h3> 🧰 Technologies & Tools</h3>
-  <img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Django-informational?style=flat&logo=Django&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-AIOHTTP-informational?style=flat&logo=AIOHTTP&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Celery-informational?style=flat&logo=Celery&logoColor=white&color=008080"</img>
+<dev align="center">
+  <h1 align="center">Welcome to Valerik's GitHub 👋</h1>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/valery-bychkov-61b919124/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://twitter.com/tweet_by_nobody"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+    <a href="https://dev.to/made_by_nobody"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+    <a href="https://hackerrank.com/mrNoBoDy1042"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+    <a href="https://www.codewars.com/users/made_by_nobody"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars" /></a>&nbsp;
+  </div>
   <br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-SQL_Alchemy-informational?style=flat&logo=SQLAlchemy&logoColor=white&color=008080"</img>
+  <h2 align="center">👨🏻‍💻 About me</h2>
+  <ul>
+    <li> 🙋🏻 Backend Python developer since 2018</li>
+    <li> 🔥 Like creating clean and efficient systems</li>
+    <li> ⭐ Efficiency ambasador</li>
+    <li> 🚀 Cyclist, FPV pilot, Bedroom DJ, Videographer </li>
+    <li> 🌱 Passionate about plants </li>
+  </ul>
   <br>
-  <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Bash-informational?style=flat&logo=Bash&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-cURL-informational?style=flat&logo=cURL&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=008080"</img>
+  <h2 align="center"> 💼 Currently working on</h3>
+  <ul>
+    <li> 🔎 Lead Django backend developer at <a href="https://amazinghiring.com/">AmazingHiring</a></li>
+    <li> 🧙 Creating ChartWizard</li>
+  </ul>
   <br>
-  <img src="https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Sentry-informational?style=flat&logo=Sentry&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-Jira-informational?style=flat&logo=Jira&logoColor=white&color=008080"</img>
-  <img src="https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=VSCode&logoColor=white&color=008080"</img>
-  <hr width="50%" style="height:5px;">
-  <h3> 📮 Socials</h3>
-  <a href="https://www.linkedin.com/in/valery-bychkov-61b919124/">LinkedIn</a> <br>
-  <a href="https://www.hackerrank.com/mrNoBoDy1042">HackerRank</a> <br>
-  <a href="https://t.me/mrNoBoDy1042">Telegram</a> <br>
-  <a href="https://www.instagram.com/mr_nobody1042/">Instagram</a> <br>
+  <h2 align="center"> 🧰 Languages and Tools</h2>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/AIOHTTP-2B579A?style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Iterm-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+  
+  
 </div>

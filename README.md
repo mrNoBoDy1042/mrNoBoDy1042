@@ -10,9 +10,9 @@
   <br>
   <h2 align="center">👨🏻‍💻 About me</h2>
   <ul>
-    <li> 🙋🏻 Backend Python developer since 2018</li>
+    <li> 🙋🏻 Backend Python developer since 2019</li>
     <li> 🔥 Like creating clean and efficient systems</li>
-    <li> ⭐ Efficiency ambasador</li>
+    <li> ⭐ Efficiency ambassador</li>
     <li> 🚀 Cyclist, FPV pilot, Bedroom DJ, Videographer </li>
     <li> 🌱 Passionate about plants </li>
   </ul>
